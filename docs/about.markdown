@@ -1,18 +1,10 @@
 ---
 layout: page
-title: About
+title: À propos
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Ce site est hébergé sur GitHub pages, et le dépôt correspondant est [ici](https://github.com/flodebarre/Bluesky/tree/main/docs).
+Vous pouvez faire des suggestions via Pull Requests.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Le site est généré via [Jekyll](https://github.com/jekyll) et le thème utilisé est [minima](https://github.com/jekyll/minima).
