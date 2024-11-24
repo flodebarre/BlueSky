@@ -15,12 +15,15 @@ layout: default
       {%- endif -%}</p>
   </header>
 
-<!--
-  <div class="sidenav">
+<!--  <div class="sidenav">
     {% include toc.html html=content h_min=2 %}
   </div>
 -->
-  
+  <nav class="toc-fixed" markdown="1">
+    <h3>Table des matières</h3>
+    {% include toc.html html=content h_min=2 h_max=3 %}
+  </nav>
+
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>

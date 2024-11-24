@@ -1,0 +1,35 @@
+---
+---
+
+@import "{{ site.theme }}";
+img {
+  display: block;
+  max-width: 100%;
+  vertical-align: middle;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* FIXED SIDEBAR */
+nav.toc-fixed {
+  position:float;
+  background-color: #f1f1f1;
+   padding-top: 10px;
+   padding-left: 10%;
+   padding-right: 10%;
+   padding-bottom: 1px;
+  margin: 10px;
+}
+nav.toc-fixed ul {list-style:none; padding-left:0; margin-left:0;}
+nav.toc-fixed ul li ul {list-style:none; padding-left:20px; margin-left:0; font-size: 90%;}
+/*nav.toc-fixed ul li a {color: $text-color;}*/
+/*
+div.wrapper {max-width:960px;margin-left:5%;}
+div.post-content > p {width:65%;max-width:640;}
+*/
+/* On screens that are less than XXpx, display the bar vertically, instead of horizontally */
+/*
+@media screen and (max-width: 1000px) {
+  nav.toc-fixed {display: none;
+  }
+}
+*/
