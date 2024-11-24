@@ -11,14 +11,8 @@ toc: true
 Pour ouvrir un compte sur Bluesky, visitez le site <https://bsky.app/>, cliquez sur "S'inscrire" et suivez les instructions.  
 
 <p align="center">
-<img align="center" src="/assets/img/bsky_welcome.png" title = "Vous avez bien raison de changer de site" alt = "Capture d'écran du site Bluesky">
-</p>
-
-<p align="center">
 <img align="center" src="{{ site.baseurl }}/assets/img/bsky_welcome.png" title = "Vous avez bien raison de changer de site" alt = "Capture d'écran du site Bluesky">
 </p>
-
-
 
 Dans un premier temps, conservez l'hébergeur par défaut, `Bluesky social`. Pour être plus facilement retrouvé·e par vos contacts, il est recommandé d'utiliser le même *handle* sur les deux plateformes (voir <a href = "#bridge">plus bas</a>).
 
@@ -28,10 +22,10 @@ Si vous créez le compte pour une institution, vous pourrez (et devriez) utilise
 
 Vous pouvez télécharger l'intégralité de votre archive sur X (tweets, réponses, messages privés, etc.). Elle se demande sur X via Paramètres, Votre Compte, Téléchargez une archive.
 
-![Capture d'écran du menu de paramètres pour télécharger son archive](/assets/img/X_Parametres-archive.png "Télécharger archive")
 ![Capture d'écran du menu de paramètres pour télécharger son archive]({{ site.baseurl }}/assets/img/X_Parametres-archive.png "Télécharger archive")
 
-Quelques jours plus tard, vous recevrez une notification vous informant que votre archive est prête. Elle se présentera sous la forme d'un dossier zippé à télécharger (NB : le téléchargement fonctionne mal avec Safari, il vaut mieux utiliser un autre navigateur).
+Quelques jours plus tard, vous recevrez une notification vous informant que votre archive est prête. Elle se présentera sous la forme d'un dossier zippé à télécharger.  
+(NB : le téléchargement fonctionne mal avec Safari, il vaut mieux utiliser un autre navigateur.)
 
 ## <a name = "migrer"></a> Migrer de X à Bluesky
 
@@ -49,7 +43,7 @@ Plusieurs utilisateurs recommandent [BlueArk](https://blueark.app/en-us/) ; le s
 
 Voici un exemple de tweet importé :  
 <p align="center">
-<img align="center" src="/assets/img/bsky_import.png" title = "Oui les données vont actuellement toutes dans le sens d'une origine naturelle" alt = "Capture d'écran d'un tweet importé">
+<img align="center" src="{{ site.baseurl }}/assets/img/bsky_import.png" title = "Oui les données vont actuellement toutes dans le sens d'une origine naturelle" alt = "Capture d'écran d'un tweet importé">
 </p>
 
 ## <a name = "leaveX"></a> Quitter X
@@ -75,6 +69,6 @@ Si vous avez eu un compte relativement gros sur X ou des mésaventures avec des 
 
 Pour désactiver votre compte X, allez dans Paramètres, Votre compte, et choisissez l'option Désactiver le compte.  
 
-![Capture d'écran du menu de paramètres pour supprimer son compte](/assets/img/X_Parametres-desactiver.png "Désactiver son compte")
+![Capture d'écran du menu de paramètres pour supprimer son compte]({{ site.baseurl }}/assets/img/X_Parametres-desactiver.png "Désactiver son compte")
 
 Félicitations ! Vous avez quitté X pour Bluesky.
