@@ -3,10 +3,10 @@ layout: post
 title:  "Quitter X pour Bluesky"
 date:   2024-11-22
 categories: bluesky X
-toc: true
 ---
 
-## <a name="openbsky"></a> Ouvrir un compte sur Bluesky
+<a name="openbsky"></a>
+## Ouvrir un compte sur Bluesky  
 
 Pour ouvrir un compte sur Bluesky, visitez le site <https://bsky.app/>, cliquez sur "S'inscrire" et suivez les instructions.  
 
@@ -18,7 +18,11 @@ Dans un premier temps, conservez l'hébergeur par défaut, `Bluesky social`. Pou
 
 Si vous créez le compte pour une institution, vous pourrez (et devriez) utiliser le domaine de votre site web (détails [ici](https://bsky.social/about/blog/4-28-2023-domain-handle-tutorial)), c'est ainsi que fonctionne la vérification sur Bluesky.
 
-## <a name="backupX"></a> Sauvegarder son archive X (optionnel)
+Avant de vous lancer à suivre d'autres compte, prenez le temps de remplir votre nom, bio, et de mettre une image de profil. Les autres comptes seront plus enclins à vous suivre en retour !
+
+
+<a name="backupX"></a>
+##  Sauvegarder son archive X (optionnel)  
 
 Vous pouvez télécharger l'intégralité de votre archive sur X (tweets, réponses, messages privés, etc.). Elle se demande sur X via Paramètres, Votre Compte, Téléchargez une archive.
 
@@ -27,15 +31,18 @@ Vous pouvez télécharger l'intégralité de votre archive sur X (tweets, répon
 Quelques jours plus tard, vous recevrez une notification vous informant que votre archive est prête. Elle se présentera sous la forme d'un dossier zippé à télécharger.  
 (NB : le téléchargement fonctionne mal avec Safari, il vaut mieux utiliser un autre navigateur.)
 
-## <a name = "migrer"></a> Migrer de X à Bluesky
+<a name = "migrer"></a>
+##  Migrer de X à Bluesky  
 
-### <a name="bridge"></a> Retrouver ses contacts sur Bluesky (optionnel)
+<a name="bridge"></a>
+### Retrouver ses contacts sur Bluesky (optionnel)  
 
 Plusieurs des personnes que vous suiviez sur X sont peut-être déjà sur Bluesky. Vous pouvez les retrouver à l'aide du [Sky Follower Bridge](https://www.sky-follower-bridge.dev/fr/get-started.html). Il s'utilise dans un navigateur, comme add-on, et il est gratuit. Il demande un "App password" : un mot de passe généré spécifiquement pour son utilisation, qui n'est pas votre mot de passe principal sur Bluesky.
 
 Attention, l'outil n'est pas parfait : il utilise les noms des comptes. Il ne retrouvera pas les personnes qui ont changé leur nom, et a des faux positifs. Il est donc recommandé de vérifier manuellement les comptes suggérés au lieu de tout accepter d'un coup.
 
-### <a name="arc"></a> Transférer son archive X sur Bluesky (optionnel)
+<a name="arc"></a>
+### Transférer son archive X sur Bluesky (optionnel)  
 
 Il existe des outils pour transférer votre archive X sur Bluesky. Mais vous pouvez aussi simplement commencer avec un compte neuf !
 
@@ -46,7 +53,8 @@ Voici un exemple de tweet importé :
 <img align="center" src="{{ site.baseurl }}/assets/img/bsky_import.png" title = "Oui les données vont actuellement toutes dans le sens d'une origine naturelle" alt = "Capture d'écran d'un tweet importé">
 </p>
 
-## <a name = "leaveX"></a> Quitter X
+<a name = "leaveX"></a>
+## Quitter X  
 
 Vous êtes maintenant prêt·e à quitter X. Plusieurs options s'offrent à vous :  
 1.  Garder votre compte sans rien changer et le mettre en dormance, avec un tweet épinglé invitant vos followers à vous rejoindre ailleurs,  
@@ -65,7 +73,8 @@ Si vous avez eu un compte relativement gros sur X ou des mésaventures avec des 
 -  Changez le nom (*handle*) de votre compte historique (Paramètres, Votre compte, Informations),  
 -  Changez le nom du nouveau compte et récupérez votre nom historique.  
 
-### <a name = "endX"></a> Désactiver son compte X
+<a name = "endX"></a>  
+### Désactiver son compte X
 
 Pour désactiver votre compte X, allez dans Paramètres, Votre compte, et choisissez l'option Désactiver le compte.  
 
