@@ -61,7 +61,7 @@ A starter pack to find global public health and epidemiology folks on Bluesky.
 Feel free to suggest people who may be missing.
 go.bsky.app/ARRb7Xn<br><br><a href="https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3l3ticna2av2x?ref_src=embed">[image or embed]</a></p>&mdash; Saloni (<a href="https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep?ref_src=embed">@scientificdiscovery.dev</a>) <a href="https://bsky.app/profile/did:plc:73aicoale2mqwrap63rdzwep/post/3l3ticna2av2x?ref_src=embed">September 11, 2024 at 12:40 AM</a></blockquote><script async src="https://embed.bsky.app/static/embed.js" charset="utf-8"></script>
 
--  Il existe un [annuaire](https://blueskydirectory.com/starter-packs/) des kits de démarrage, pratique pour rechercher des kits correspondant à vos intérêts.  
+-  Il existe des annuaires ([ici](https://blueskydirectory.com/starter-packs/), et un plus récent [ici](https://blueskystarterpack.com)) des kits de démarrage, pratique pour rechercher des kits correspondant à vos intérêts.  
 
 -  Enfin, vous pouvez [créer](https://bsky.social/about/blog/06-26-2024-starter-packs) votre propre kit à partager, via l'onglet correspondant sur votre page de profil.  
 ![Capture d'écran de l'onglet Kit de démarrage]({{ site.baseurl }}/assets/img/bsky_StarterPack-create.png)
